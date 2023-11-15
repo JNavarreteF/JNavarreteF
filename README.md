@@ -2,6 +2,16 @@
 
 ¡Hola! Soy Julio navarrete, y este es mi proyecto asombroso. Gracias por visitar.
 
+## Nombre y Apellido 🚀
+
+Julio Navarrete
+## Edad 🚀
+33
+
+## Ciudad 🚀
+
+Quito
+
 ## Acerca de Este Proyecto 🚀
 
 Este proyecto es para representar el readme.mdi. ¡Espero que encuentres útil y emocionante!
